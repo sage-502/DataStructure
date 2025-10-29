@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#define UNDERFLOW -1
 
 class Node {
 private:
