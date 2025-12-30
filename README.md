@@ -3,14 +3,22 @@
 
 강의 자료를 기반으로 변형하여 작성했으며, C++로 구현했다.
 
-주석이 거의 모든 줄에 달려있으나 퀄리티는 보장할 수 없다.
+학습 기록이므로 퀄리티는 보장하지 않음.
 
 ---
 ### 📁구성
 ```
 DataStructure
-├ List
-│    ├ single-linked-list.cpp
-│    └ double-linked-list.cpp (예정)
-└ (추가 예정)
+├ List //linked list 작성 연습
+│    └ single-linked-list.cpp
+├ midterm-exam //중간고사 범위 : 리스트, 큐, 스택, 트리 구현
+│    ├ List.cpp
+│    ├ Queue.cpp
+│    ├ Stack.cpp
+│    └ Tree.cpp
+└ header //기말고사 대비 : 리스트, 트리, 힙, 정렬 구현
+     ├ list.h
+     ├ tree.h
+     ├ heap.h
+     └ sort.h
 ```
